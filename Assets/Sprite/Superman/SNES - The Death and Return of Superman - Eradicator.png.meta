@@ -1,0 +1,3164 @@
+fileFormatVersion: 2
+guid: 48ff0e66b5464f5428b0b9fc37cae0d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1175029075402611476
+    second: SNES - The Death and Return of Superman - Eradicator_0
+  - first:
+      213: -2624813019351195900
+    second: SNES - The Death and Return of Superman - Eradicator_1
+  - first:
+      213: -164894037057294446
+    second: SNES - The Death and Return of Superman - Eradicator_2
+  - first:
+      213: 6538414028501575362
+    second: SNES - The Death and Return of Superman - Eradicator_3
+  - first:
+      213: -8777923006384091788
+    second: SNES - The Death and Return of Superman - Eradicator_4
+  - first:
+      213: -7298499934564474995
+    second: SNES - The Death and Return of Superman - Eradicator_5
+  - first:
+      213: 7660949603713482429
+    second: SNES - The Death and Return of Superman - Eradicator_6
+  - first:
+      213: 3668893791929109305
+    second: SNES - The Death and Return of Superman - Eradicator_7
+  - first:
+      213: -5927315507850883940
+    second: SNES - The Death and Return of Superman - Eradicator_8
+  - first:
+      213: 8418287286171904335
+    second: SNES - The Death and Return of Superman - Eradicator_9
+  - first:
+      213: -4163441046563039809
+    second: SNES - The Death and Return of Superman - Eradicator_10
+  - first:
+      213: 1667125582942832266
+    second: SNES - The Death and Return of Superman - Eradicator_11
+  - first:
+      213: 257699038601051983
+    second: SNES - The Death and Return of Superman - Eradicator_12
+  - first:
+      213: -3872024028250163116
+    second: SNES - The Death and Return of Superman - Eradicator_13
+  - first:
+      213: 9081380136185270525
+    second: SNES - The Death and Return of Superman - Eradicator_14
+  - first:
+      213: 1111169304677297946
+    second: SNES - The Death and Return of Superman - Eradicator_15
+  - first:
+      213: -8966731619405465639
+    second: SNES - The Death and Return of Superman - Eradicator_16
+  - first:
+      213: 2079978986500671529
+    second: SNES - The Death and Return of Superman - Eradicator_17
+  - first:
+      213: 6387425433449179860
+    second: SNES - The Death and Return of Superman - Eradicator_18
+  - first:
+      213: -946345655507712622
+    second: SNES - The Death and Return of Superman - Eradicator_19
+  - first:
+      213: -8433552149982541450
+    second: SNES - The Death and Return of Superman - Eradicator_20
+  - first:
+      213: 3484905783304601094
+    second: SNES - The Death and Return of Superman - Eradicator_21
+  - first:
+      213: 3785963028189083802
+    second: SNES - The Death and Return of Superman - Eradicator_22
+  - first:
+      213: 3710628070811673573
+    second: SNES - The Death and Return of Superman - Eradicator_23
+  - first:
+      213: -1822092509367133365
+    second: SNES - The Death and Return of Superman - Eradicator_24
+  - first:
+      213: -4882495318672202277
+    second: SNES - The Death and Return of Superman - Eradicator_25
+  - first:
+      213: -3246287959216955621
+    second: SNES - The Death and Return of Superman - Eradicator_26
+  - first:
+      213: -5539480587073306814
+    second: SNES - The Death and Return of Superman - Eradicator_27
+  - first:
+      213: -6069984159197525710
+    second: SNES - The Death and Return of Superman - Eradicator_28
+  - first:
+      213: 6008053224769850103
+    second: SNES - The Death and Return of Superman - Eradicator_29
+  - first:
+      213: -7142231731202280924
+    second: SNES - The Death and Return of Superman - Eradicator_30
+  - first:
+      213: -3904718841077153954
+    second: SNES - The Death and Return of Superman - Eradicator_31
+  - first:
+      213: 5375087522146337100
+    second: SNES - The Death and Return of Superman - Eradicator_32
+  - first:
+      213: 6026059236502046087
+    second: SNES - The Death and Return of Superman - Eradicator_33
+  - first:
+      213: 4346901183547539496
+    second: SNES - The Death and Return of Superman - Eradicator_34
+  - first:
+      213: -8214673048272349692
+    second: SNES - The Death and Return of Superman - Eradicator_35
+  - first:
+      213: 2761619598707492983
+    second: SNES - The Death and Return of Superman - Eradicator_36
+  - first:
+      213: 3890488327767886885
+    second: SNES - The Death and Return of Superman - Eradicator_37
+  - first:
+      213: -4666607019347445669
+    second: SNES - The Death and Return of Superman - Eradicator_38
+  - first:
+      213: 437510169882045804
+    second: SNES - The Death and Return of Superman - Eradicator_39
+  - first:
+      213: 6841153472767039447
+    second: SNES - The Death and Return of Superman - Eradicator_40
+  - first:
+      213: 3089198855299566608
+    second: SNES - The Death and Return of Superman - Eradicator_41
+  - first:
+      213: -2889069167656099457
+    second: SNES - The Death and Return of Superman - Eradicator_42
+  - first:
+      213: -2356635719190273340
+    second: SNES - The Death and Return of Superman - Eradicator_43
+  - first:
+      213: -8645377200429036468
+    second: SNES - The Death and Return of Superman - Eradicator_44
+  - first:
+      213: -3373126934680264400
+    second: SNES - The Death and Return of Superman - Eradicator_45
+  - first:
+      213: -5653202530503236317
+    second: SNES - The Death and Return of Superman - Eradicator_46
+  - first:
+      213: -356547590909924981
+    second: SNES - The Death and Return of Superman - Eradicator_47
+  - first:
+      213: -7973345157151529441
+    second: SNES - The Death and Return of Superman - Eradicator_48
+  - first:
+      213: -3447547161975140556
+    second: SNES - The Death and Return of Superman - Eradicator_49
+  - first:
+      213: -578634150618055186
+    second: SNES - The Death and Return of Superman - Eradicator_50
+  - first:
+      213: -6195421447681339177
+    second: SNES - The Death and Return of Superman - Eradicator_51
+  - first:
+      213: 4148643423487178209
+    second: SNES - The Death and Return of Superman - Eradicator_52
+  - first:
+      213: 4968443964322478892
+    second: SNES - The Death and Return of Superman - Eradicator_53
+  - first:
+      213: 6805525938775609595
+    second: SNES - The Death and Return of Superman - Eradicator_54
+  - first:
+      213: 4054923564022074769
+    second: SNES - The Death and Return of Superman - Eradicator_55
+  - first:
+      213: 2434528512303504671
+    second: SNES - The Death and Return of Superman - Eradicator_56
+  - first:
+      213: 7089281907244364444
+    second: SNES - The Death and Return of Superman - Eradicator_57
+  - first:
+      213: 2079544638440415504
+    second: SNES - The Death and Return of Superman - Eradicator_58
+  - first:
+      213: 3158450575544820716
+    second: SNES - The Death and Return of Superman - Eradicator_59
+  - first:
+      213: -4224555753114898996
+    second: SNES - The Death and Return of Superman - Eradicator_60
+  - first:
+      213: -6351152933643281397
+    second: SNES - The Death and Return of Superman - Eradicator_61
+  - first:
+      213: 3517973006908645747
+    second: SNES - The Death and Return of Superman - Eradicator_62
+  - first:
+      213: 7353874477157292882
+    second: SNES - The Death and Return of Superman - Eradicator_63
+  - first:
+      213: -2226698103025919731
+    second: SNES - The Death and Return of Superman - Eradicator_64
+  - first:
+      213: -3426572405201596373
+    second: SNES - The Death and Return of Superman - Eradicator_65
+  - first:
+      213: -4127260920473388693
+    second: SNES - The Death and Return of Superman - Eradicator_66
+  - first:
+      213: -238376342315686097
+    second: SNES - The Death and Return of Superman - Eradicator_67
+  - first:
+      213: -357475155437506154
+    second: SNES - The Death and Return of Superman - Eradicator_68
+  - first:
+      213: 5930856621677461685
+    second: SNES - The Death and Return of Superman - Eradicator_69
+  - first:
+      213: -8443059925432543889
+    second: SNES - The Death and Return of Superman - Eradicator_70
+  - first:
+      213: 1040666904522106587
+    second: SNES - The Death and Return of Superman - Eradicator_71
+  - first:
+      213: 7222106985813058241
+    second: SNES - The Death and Return of Superman - Eradicator_72
+  - first:
+      213: -435200900423022559
+    second: SNES - The Death and Return of Superman - Eradicator_73
+  - first:
+      213: 355200876158353629
+    second: SNES - The Death and Return of Superman - Eradicator_74
+  - first:
+      213: 4671947037413568089
+    second: SNES - The Death and Return of Superman - Eradicator_75
+  - first:
+      213: -8080078546688175174
+    second: SNES - The Death and Return of Superman - Eradicator_76
+  - first:
+      213: 3865899065530998309
+    second: SNES - The Death and Return of Superman - Eradicator_77
+  - first:
+      213: -4070449442133059890
+    second: SNES - The Death and Return of Superman - Eradicator_78
+  - first:
+      213: -3375886379988651208
+    second: SNES - The Death and Return of Superman - Eradicator_79
+  - first:
+      213: -9058689729756841871
+    second: SNES - The Death and Return of Superman - Eradicator_80
+  - first:
+      213: 1646628031496232368
+    second: SNES - The Death and Return of Superman - Eradicator_81
+  - first:
+      213: 3616376037239563592
+    second: SNES - The Death and Return of Superman - Eradicator_82
+  - first:
+      213: -5915156972468329255
+    second: SNES - The Death and Return of Superman - Eradicator_83
+  - first:
+      213: -2376272144201291597
+    second: SNES - The Death and Return of Superman - Eradicator_84
+  - first:
+      213: 5115775651643608711
+    second: SNES - The Death and Return of Superman - Eradicator_85
+  - first:
+      213: -1403403596656592374
+    second: SNES - The Death and Return of Superman - Eradicator_86
+  - first:
+      213: 7856290089496799722
+    second: SNES - The Death and Return of Superman - Eradicator_87
+  - first:
+      213: 8541383122660004394
+    second: SNES - The Death and Return of Superman - Eradicator_88
+  - first:
+      213: -3401345715295368946
+    second: SNES - The Death and Return of Superman - Eradicator_89
+  - first:
+      213: -3807868652137531692
+    second: SNES - The Death and Return of Superman - Eradicator_90
+  - first:
+      213: 2031181505717000449
+    second: SNES - The Death and Return of Superman - Eradicator_91
+  - first:
+      213: 2964188563641858098
+    second: SNES - The Death and Return of Superman - Eradicator_92
+  - first:
+      213: 5416106162764498060
+    second: SNES - The Death and Return of Superman - Eradicator_93
+  - first:
+      213: 6300682700637952737
+    second: SNES - The Death and Return of Superman - Eradicator_94
+  - first:
+      213: 5697182109355887832
+    second: SNES - The Death and Return of Superman - Eradicator_95
+  - first:
+      213: -4286898923964094824
+    second: SNES - The Death and Return of Superman - Eradicator_96
+  - first:
+      213: -3580668916188781450
+    second: SNES - The Death and Return of Superman - Eradicator_97
+  - first:
+      213: 3551491987853777996
+    second: SNES - The Death and Return of Superman - Eradicator_98
+  - first:
+      213: 9209292026912899900
+    second: SNES - The Death and Return of Superman - Eradicator_99
+  - first:
+      213: 5236540483928950842
+    second: SNES - The Death and Return of Superman - Eradicator_100
+  - first:
+      213: 2913455309119180092
+    second: SNES - The Death and Return of Superman - Eradicator_101
+  - first:
+      213: -3228527136690232988
+    second: SNES - The Death and Return of Superman - Eradicator_102
+  - first:
+      213: -877577412709175459
+    second: SNES - The Death and Return of Superman - Eradicator_103
+  - first:
+      213: -72071350727571423
+    second: SNES - The Death and Return of Superman - Eradicator_104
+  - first:
+      213: 5778562683124698299
+    second: SNES - The Death and Return of Superman - Eradicator_105
+  - first:
+      213: -3190360416410823808
+    second: SNES - The Death and Return of Superman - Eradicator_106
+  - first:
+      213: 7827255301927363355
+    second: SNES - The Death and Return of Superman - Eradicator_107
+  - first:
+      213: -6054183316201796650
+    second: SNES - The Death and Return of Superman - Eradicator_108
+  - first:
+      213: 5878226528211908778
+    second: SNES - The Death and Return of Superman - Eradicator_109
+  - first:
+      213: 2882483195278605361
+    second: SNES - The Death and Return of Superman - Eradicator_110
+  - first:
+      213: 3756984490818598769
+    second: SNES - The Death and Return of Superman - Eradicator_111
+  - first:
+      213: -2841906187188882921
+    second: SNES - The Death and Return of Superman - Eradicator_112
+  - first:
+      213: -8616918114880236321
+    second: SNES - The Death and Return of Superman - Eradicator_113
+  - first:
+      213: 2786015211879176874
+    second: SNES - The Death and Return of Superman - Eradicator_114
+  - first:
+      213: -2347059318719356758
+    second: SNES - The Death and Return of Superman - Eradicator_115
+  - first:
+      213: -701994985308890205
+    second: SNES - The Death and Return of Superman - Eradicator_116
+  - first:
+      213: -4458207355668472869
+    second: SNES - The Death and Return of Superman - Eradicator_117
+  - first:
+      213: 4440340859755175999
+    second: SNES - The Death and Return of Superman - Eradicator_118
+  - first:
+      213: 1291882669085661148
+    second: SNES - The Death and Return of Superman - Eradicator_119
+  - first:
+      213: -384489057587425884
+    second: SNES - The Death and Return of Superman - Eradicator_120
+  - first:
+      213: -2703870407701979705
+    second: SNES - The Death and Return of Superman - Eradicator_121
+  - first:
+      213: -4335769808292716058
+    second: SNES - The Death and Return of Superman - Eradicator_122
+  - first:
+      213: -7623013347917756351
+    second: SNES - The Death and Return of Superman - Eradicator_123
+  - first:
+      213: 3608670986306299273
+    second: SNES - The Death and Return of Superman - Eradicator_124
+  - first:
+      213: 2939101988576666712
+    second: SNES - The Death and Return of Superman - Eradicator_125
+  - first:
+      213: 2057739661279326959
+    second: SNES - The Death and Return of Superman - Eradicator_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1576
+        width: 96
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bd020f7ba8e4010800000000000000
+      internalID: 1175029075402611476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1646
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f50cb377ac29bd0800000000000000
+      internalID: -2624813019351195900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1646
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fae973fbd26bdf0800000000000000
+      internalID: -164894037057294446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1645
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6644bbaec1dba50800000000000000
+      internalID: 6538414028501575362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1644
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4fba788d8e2680800000000000000
+      internalID: -8777923006384091788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1647
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f92178af486ba90800000000000000
+      internalID: -7298499934564474995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_6
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1553
+        width: 178
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef28b3319215a60800000000000000
+      internalID: 7660949603713482429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1558
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b029217778ae230800000000000000
+      internalID: 3668893791929109305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1558
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c42ea23f1fdbda0800000000000000
+      internalID: -5927315507850883940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1556
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a67d4fa3c3d470800000000000000
+      internalID: 8418287286171904335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1558
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb554505d6c7836c0800000000000000
+      internalID: -4163441046563039809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1555
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86064782e1d22710800000000000000
+      internalID: 1667125582942832266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1554
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f76c609e7839300800000000000000
+      internalID: 257699038601051983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1550
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583f5249aec34ac0800000000000000
+      internalID: -3872024028250163116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1476
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09c9f5e1b870e70800000000000000
+      internalID: 9081380136185270525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1474
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fab9a689aab6f00800000000000000
+      internalID: 1111169304677297946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1473
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f2159915cf8380800000000000000
+      internalID: -8966731619405465639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1474
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92846a63ed19ddc10800000000000000
+      internalID: 2079978986500671529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1469
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daa806f691b4a850800000000000000
+      internalID: 6387425433449179860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1468
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2958ab8e3a7edd2f0800000000000000
+      internalID: -946345655507712622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1468
+        width: 162
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6790f81a00106fa80800000000000000
+      internalID: -8433552149982541450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1459
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3399985fdc5030800000000000000
+      internalID: 3484905783304601094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1459
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98f8f3b0517a8430800000000000000
+      internalID: 3785963028189083802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1459
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a256129cce7330800000000000000
+      internalID: 3710628070811673573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1459
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b954f3480a6b6e0800000000000000
+      internalID: -1822092509367133365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1459
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd529015064ed3cb0800000000000000
+      internalID: -4882495318672202277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1459
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fde38fc4ed2f2d0800000000000000
+      internalID: -3246287959216955621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1459
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fb25761cfcf13b0800000000000000
+      internalID: -5539480587073306814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1373
+        width: 115
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23988ce319513cba0800000000000000
+      internalID: -6069984159197525710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1373
+        width: 123
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0c0e6394e06350800000000000000
+      internalID: 6008053224769850103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1370
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223a26e412b1ec90800000000000000
+      internalID: -7142231731202280924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1423
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f32d1f6e6afc9c0800000000000000
+      internalID: -3904718841077153954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1421
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ca2a7f95289a40800000000000000
+      internalID: 5375087522146337100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1369
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7858a2bb2fcd0a350800000000000000
+      internalID: 6026059236502046087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1373
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208317789b435c30800000000000000
+      internalID: 4346901183547539496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_35
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1412
+        width: 42
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40650c3c26e9ffd80800000000000000
+      internalID: -8214673048272349692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1384
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77887b1b46e335620800000000000000
+      internalID: 2761619598707492983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_37
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1402
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c886b758acdf530800000000000000
+      internalID: 3890488327767886885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_38
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1402
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58737104a1ec3fb0800000000000000
+      internalID: -4666607019347445669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1402
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da0757e29521600800000000000000
+      internalID: 437510169882045804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1402
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7953666d8a0fe50800000000000000
+      internalID: 6841153472767039447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c8caaddf90fda20800000000000000
+      internalID: 3089198855299566608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1402
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71235226e6f7e7d0800000000000000
+      internalID: -2889069167656099457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_43
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1274
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2aaa4ac4c8b4fd0800000000000000
+      internalID: -2356635719190273340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1274
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8a2bcd33750880800000000000000
+      internalID: -8645377200429036468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1275
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a41cacee3031d0800000000000000
+      internalID: -3373126934680264400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1273
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e30e104acb81b0800000000000000
+      internalID: -5653202530503236317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1272
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ea4aead94d0bf0800000000000000
+      internalID: -356547590909924981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_48
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1294
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e66cf2dcf85190800000000000000
+      internalID: -7973345157151529441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1291
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fc0104f1ad720d0800000000000000
+      internalID: -3447547161975140556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1177
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed30854e4748f7f0800000000000000
+      internalID: -578634150618055186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1177
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01e11a401750aa0800000000000000
+      internalID: -6195421447681339177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1182
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b6b49631f29930800000000000000
+      internalID: 4148643423487178209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_53
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1185
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bffdb267573f440800000000000000
+      internalID: 4968443964322478892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1190
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05d6ab8c5127e50800000000000000
+      internalID: 6805525938775609595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_55
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1190
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d85e06f7bf54830800000000000000
+      internalID: 4054923564022074769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_56
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1184
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d196388ce29c120800000000000000
+      internalID: 2434528512303504671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1082
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9277e18550326260800000000000000
+      internalID: 7089281907244364444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1080
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112fcca4d60cdc10800000000000000
+      internalID: 2079544638440415504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_59
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1080
+        width: 74
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32af3701215db20800000000000000
+      internalID: 3158450575544820716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1079
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccde0c9dcec5f55c0800000000000000
+      internalID: -4224555753114898996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_61
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1073
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c13048e0c2cd7a0800000000000000
+      internalID: -6351152933643281397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_62
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1084
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e33e8fc952d030800000000000000
+      internalID: 3517973006908645747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_63
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 965
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b95cddfd53e0660800000000000000
+      internalID: 7353874477157292882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 922
+        width: 57
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d099a137fdd2911e0800000000000000
+      internalID: -2226698103025919731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 956
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209dce5d8e5270d0800000000000000
+      internalID: -3426572405201596373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 944
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f4db5f0609b6c0800000000000000
+      internalID: -4127260920473388693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 941
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27aa69cafd11bcf0800000000000000
+      internalID: -238376342315686097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_68
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 942
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691be187d3ef90bf0800000000000000
+      internalID: -357475155437506154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 945
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0cbd4aca2ae4250800000000000000
+      internalID: 5930856621677461685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_70
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 951
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65d1472bb934da80800000000000000
+      internalID: -8443059925432543889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 838
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ab853901317e00800000000000000
+      internalID: 1040666904522106587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 837
+        width: 95
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2214b0a041a3460800000000000000
+      internalID: 7222106985813058241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_73
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 841
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1280b5c361bd5f9f0800000000000000
+      internalID: -435200900423022559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_74
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 838
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0835f905dede400800000000000000
+      internalID: 355200876158353629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_75
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 825
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6976d31716d040800000000000000
+      internalID: 4671947037413568089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_76
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 833
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab395633f5bcddf80800000000000000
+      internalID: -8080078546688175174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_77
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 831
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5d7ab7be66a530800000000000000
+      internalID: 3865899065530998309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 731
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d87d6ccbd287c0800000000000000
+      internalID: -4070449442133059890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 733
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83372be39317621d0800000000000000
+      internalID: -3375886379988651208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_80
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 736
+        width: 119
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783d5f8fa1194280800000000000000
+      internalID: -9058689729756841871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_81
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 743
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd988e687ff9d610800000000000000
+      internalID: 1646628031496232368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 739
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84526e178d2ff2230800000000000000
+      internalID: 3616376037239563592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_83
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 733
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a959c21429eda0800000000000000
+      internalID: -5915156972468329255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_84
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 624
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8e93b2319c50fd0800000000000000
+      internalID: -2376272144201291597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 622
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4fc2c9d2eef640800000000000000
+      internalID: 5115775651643608711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_86
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 622
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a37c84ddb168ce0800000000000000
+      internalID: -1403403596656592374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 622
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9e0e44636270d60800000000000000
+      internalID: 7856290089496799722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_88
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 620
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a229aa422b6198670800000000000000
+      internalID: 8541383122660004394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_89
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 612
+        width: 217
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c581d71efbc0d0800000000000000
+      internalID: -3401345715295368946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_90
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 603
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d63ff5c2abb72bc0800000000000000
+      internalID: -3807868652137531692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_91
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 603
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109da9a51d4303c10800000000000000
+      internalID: 2031181505717000449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_92
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 603
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f52f2bc9e22920800000000000000
+      internalID: 2964188563641858098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_93
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 603
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c169fbdfd92b40800000000000000
+      internalID: 5416106162764498060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 603
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea59f5a885807750800000000000000
+      internalID: 6300682700637952737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_95
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 603
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc4ed881f4701f40800000000000000
+      internalID: 5697182109355887832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 603
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ad114420e184c0800000000000000
+      internalID: -4286898923964094824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 367
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e8488798ee4ec0800000000000000
+      internalID: -3580668916188781450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_98
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 482
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9ba6752f694130800000000000000
+      internalID: 3551491987853777996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 467
+        width: 71
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c330bf83e4afdcf70800000000000000
+      internalID: 9209292026912899900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 466
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38898463ddeba840800000000000000
+      internalID: 5236540483928950842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 474
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d4601ea2cae6820800000000000000
+      internalID: 2913455309119180092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_102
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 473
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461aed5bca7f133d0800000000000000
+      internalID: -3228527136690232988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 475
+        width: 73
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f20942ef732d3f0800000000000000
+      internalID: -877577412709175459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_104
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 474
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12886650d73fffef0800000000000000
+      internalID: -72071350727571423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_105
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 383
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcc9f7e424913050800000000000000
+      internalID: 5778562683124698299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_106
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839d52ca1099b3d0800000000000000
+      internalID: -3190360416410823808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_107
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 381
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136cadf93fff9c60800000000000000
+      internalID: 7827255301927363355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_108
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 378
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db02b0b9583bfba0800000000000000
+      internalID: -6054183316201796650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_109
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 258
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8395b12e7a39150800000000000000
+      internalID: 5878226528211908778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_110
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 264
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c3d9da133a00820800000000000000
+      internalID: 2882483195278605361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_111
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 264
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f4e13d7d732430800000000000000
+      internalID: 3756984490818598769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123f9b31658f88d0800000000000000
+      internalID: -2841906187188882921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 177
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45feff0ae8a6880800000000000000
+      internalID: -8616918114880236321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 173
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa94e2031ae9a620800000000000000
+      internalID: 2786015211879176874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 176
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa066f02cf19d6fd0800000000000000
+      internalID: -2347059318719356758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 104
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abde8ab7430246f0800000000000000
+      internalID: -701994985308890205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_117
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 175
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd856d7044122c0800000000000000
+      internalID: -4458207355668472869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 115
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302c5b6c724f9d30800000000000000
+      internalID: 4440340859755175999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_119
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 109
+        width: 114
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7955e5170bde110800000000000000
+      internalID: 1291882669085661148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_120
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 110
+        width: 123
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0a7e3d350aaaf0800000000000000
+      internalID: -384489057587425884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_121
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 107
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd9b3e903ce97ad0800000000000000
+      internalID: -2703870407701979705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_122
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 132
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e169dcc45044d3c0800000000000000
+      internalID: -4335769808292716058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_123
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1480d4f9fbd953690800000000000000
+      internalID: -7623013347917756351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_124
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ab0a7423941230800000000000000
+      internalID: 3608670986306299273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a1c3cfa9c9c820800000000000000
+      internalID: 2939101988576666712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Death and Return of Superman - Eradicator_126
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe279cec15f8e8c10800000000000000
+      internalID: 2057739661279326959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
